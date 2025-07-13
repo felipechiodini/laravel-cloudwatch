@@ -1,0 +1,14 @@
+{
+    "name": "felipechiodini/laravel-cloudwatch",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Felipe Bona",
+            "email": "felipechiodinibona@hotmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^8.83",
+        "aws/aws-sdk-php": "^3.337"
+    }
+}
